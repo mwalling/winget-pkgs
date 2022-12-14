@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.1.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.2.0.schema.json
+
+PackageIdentifier: raceresultAG.raceresult12
+PackageVersion: 12.4.28.0
+Installers:
+- Architecture: x64
+  InstallerType: inno
+  InstallerUrl: https://www.raceresult.com/download/stable/raceresult_12.4.28.0_amd64_stable.exe
+  InstallerSha256: 0D4E852AA737A11A4AAFCF25F383C35E0EC1E08BD091320D5854906C3A3FC08C
+ManifestType: installer
+ManifestVersion: 1.2.0
+

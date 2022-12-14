@@ -1,0 +1,19 @@
+# Created using wingetcreate 1.1.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.2.0.schema.json
+
+PackageIdentifier: raceresultAG.raceresult12
+PackageVersion: 12.4.28.0
+PackageLocale: en-US
+Publisher: race result AG
+PublisherUrl: https://www.raceresult.com/en-us/home/index.php
+PublisherSupportUrl: https://www.raceresult.com/en-us/support/index.php
+PrivacyUrl: https://www.raceresult.com/en-us/support/index.php
+PackageName: race result 12
+License: Proprietary
+Copyright: Copyright © 1999 - 2022 race result AG. All rights reserved.
+ShortDescription: race result 12
+ReleaseNotes: https://www.raceresult.com/en-us/support/kb.php?id=2407-Release-Notes
+ReleaseNotesUrl: https://www.raceresult.com/en-us/support/kb.php?id=2407-Release-Notes
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0
+
